@@ -1,0 +1,6 @@
+bin/*.ilk
+bin/*.pdb
+prj/qtc/debug
+prj/qtc/release
+prj/qtc/Makefile*
+prj/qtc/*.user
