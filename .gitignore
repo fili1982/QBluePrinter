@@ -4,3 +4,10 @@ prj/qtc/debug
 prj/qtc/release
 prj/qtc/Makefile*
 prj/qtc/*.user
+prj/win/.vs
+prj/win/GeneratedFiles
+prj/win/debug
+prj/win/release
+prj/win/x64
+prj/win/*.user
+prj/win/*.sln
